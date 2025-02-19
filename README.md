@@ -4,18 +4,9 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-- 📫 How to reach me: hello at julianaijal dot com
-
-## My GitHub Stats
-![Juliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianaijal&show_icons=true&theme=radical)
+- ⚡ Tech Stack: JavaScript, Next.js, React, Node.js.
+- 📊 Passionate about: SEO, Web performance, data analysis, and automation.
+- 📫 Reach me at: hello at julianaijal dot com
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=julianaijal&layout=compact&theme=radical)
-
-## Projects
-WIP
-
-## Connect with Me
-WIP
-
-Thank you for visiting my profile!
